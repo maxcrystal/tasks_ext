@@ -22,6 +22,8 @@ This Chrome extension allows users to quickly access and manage tasks on the Tok
 
 5. The extension should now be installed and visible in your Chrome browser toolbar.
 
+6. Click on "Keyboard shortcuts" and add a shortcut (`Ctrl+Shift+T`).
+
 ## Usage
 
 - Click on the extension icon (orange circle) in the toolbar to open the popup.

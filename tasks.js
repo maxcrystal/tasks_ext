@@ -1,4 +1,3 @@
-
 const taskInput = document.getElementById('idInput');
 
 // Set taskInput in focus
